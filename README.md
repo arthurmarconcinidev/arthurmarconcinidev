@@ -1,16 +1,40 @@
-## Hi there 👋
+# Arthur Marconcini
 
-<!--
-**arthurmarconcinidev/arthurmarconcinidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Eu sou o Arthur Marconcini, desenvolvedor apaixonado por tecnologia e inovação.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mim
+- **Formação:** Bacharel em Ciências da Computação pela Faculdade Pitágoras de Guarapari
+- **Experiência:** 4 anos programando, sendo 2 anos como freelancer
+- **Especialidade:**  
+  - **Frontend:** React, Next.js, Astro.js, Tailwind CSS  
+  - **Backend:** Node.js, Prisma, SQL, Postgres, NextAuth  
+  - **DevOps & Cloud:** AWS S3, Docker  
+- **Certificação:** Curso de React pela Rocketseat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projeto em destaque
+
+- [Portfólio Astro](https://github.com/arthurmarconcinidev/portifolio-astro) — Meu portfólio pessoal desenvolvido com Astro.js, destacando projetos, habilidades e trajetória profissional.
+
+## 🌐 Redes e Contato
+
+- [LinkedIn](https://www.linkedin.com/in/arthurmarconcini/)
+- [arthurmarconcini.dev](https://arthurmarconcini.dev)
+
+## 🎮 Interesses
+
+- Jogos digitais
+- Anime
+- Poker
+
+---
+
+> Sempre buscando aprender, evoluir e entregar soluções criativas!
+
+---
+
+## 📊 Estatísticas & Atividade
+
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurmarconcinidev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmarconcinidev&layout=compact&theme=radical)
+
+[![Arthur's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arthurmarconcinidev&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
