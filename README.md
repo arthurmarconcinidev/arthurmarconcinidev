@@ -13,7 +13,7 @@
 
 ## 🚀 Projeto em destaque
 
-- [Portfólio Astro](https://github.com/arthurmarconcinidev/portifolio-astro) — Meu portfólio pessoal desenvolvido com Astro.js, destacando projetos, habilidades e trajetória profissional.
+- [Portfólio Astro](https://github.com/arthurmarconcini/portifolio-astro) — Meu portfólio pessoal desenvolvido com Astro.js, destacando projetos, habilidades e trajetória profissional.
 
 ## 🌐 Redes e Contato
 
